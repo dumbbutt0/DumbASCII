@@ -8,9 +8,7 @@
 
 ### **Preview**
 
-![Sonic ASCII](preview/sonic-ascii.png)  
-*(Example of Sonic image converted into ASCII art)*
-
+![Sonic ASCII](/sonic.png)  
 ---
 
 ## **Installation**
